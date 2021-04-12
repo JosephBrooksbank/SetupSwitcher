@@ -16,3 +16,10 @@ the line with that. Repeat for all monitors.
 
 
 ControlMyMonitor from [NirSoft](https://www.nirsoft.net/utils/control_my_monitor.html), I hope they don't mind me rehosting here
+
+
+## Todo
+* Remove dependency of ControlMyMonitor
+* Figure out USB hooks on windows to remove USB Safely Remove tool dependency
+* Setup scripts
+* host on pip
